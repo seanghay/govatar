@@ -55,12 +55,12 @@ for (const item of dataWithImage) {
         <div class="flex-col flex gap">
           <h3 class="type">${item.name}</h3>
           <div class="flex flex-col gap">
-            <a target="_blank" href="/${item.id}.jpg"><code class="code">/${item.id}.jpg</code></a>
-            <a target="_blank" href="/${item.id}-64.jpg"><code class="code">/${item.id}-64.jpg</code></a>
-            <a target="_blank" href="/${item.id}-96.jpg"><code class="code">/${item.id}-92.jpg</code></a>
-            <a target="_blank" href="/${item.id}-128.jpg"><code class="code">/${item.id}-128.jpg</code></a>
-            <a target="_blank" href="/${item.id}-512.jpg"><code class="code">/${item.id}-512.jpg</code></a>
-            <a target="_blank" href="/${item.id}-728.jpg"><code class="code">/${item.id}-728.jpg</code></a>
+            <a target="_blank" href="/${item.id}.jpg"><code class="code">https://govatar.netlify.app/${item.id}.jpg</code></a>
+            <a target="_blank" href="/${item.id}-64.jpg"><code class="code">https://govatar.netlify.app/${item.id}-64.jpg</code></a>
+            <a target="_blank" href="/${item.id}-96.jpg"><code class="code">https://govatar.netlify.app/${item.id}-92.jpg</code></a>
+            <a target="_blank" href="/${item.id}-128.jpg"><code class="code">https://govatar.netlify.app/${item.id}-128.jpg</code></a>
+            <a target="_blank" href="/${item.id}-512.jpg"><code class="code">https://govatar.netlify.app/${item.id}-512.jpg</code></a>
+            <a target="_blank" href="/${item.id}-728.jpg"><code class="code">https://govatar.netlify.app/${item.id}-728.jpg</code></a>
           </div>
         </div>
       </div>     
