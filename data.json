@@ -178,5 +178,16 @@
     "src": "https://mfaic.gov.kh/ministriesLogo/uploads/FE1A521I10KK/TONLE%20SAP%20Authority.jpg",
     "href": "http://www.tonlesap.gov.kh/",
     "name": "TONLE SAP Authority"
+  },
+  {
+    "src": "file:///DigitalGovernmentCommittee.png",
+    "href": "https://dgc.gov.kh",
+    "name": "Digital Government Committee"
+  },
+
+  {
+    "src": "file:///DigitalEconomy.jpg",
+    "href": "https://digitaleconomy.gov.kh",
+    "name": "Digital Economy and Business Committee"
   }
 ]
