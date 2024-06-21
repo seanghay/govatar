@@ -1,0 +1,23 @@
+{
+  "name": "govatar",
+  "type": "module",
+  "version": "0.0.0",
+  "author": {
+    "name": "Seanghay Yath",
+    "email": "seanghay.dev@gmail.com",
+    "url": "https://github.com/seanghay"
+  },
+  "scripts": {
+    "dev": "vite",
+    "preview": "vite preview",
+    "build": "vite build"
+  },
+  "repository": "seanghay/govatar",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "canvas": "^2.11.2"
+  },
+  "devDependencies": {
+    "vite": "^5.3.1"
+  }
+}
